@@ -5,5 +5,3 @@
 <li> Warning Text if No images Found </li>
 </ul>
 
-# Fixed ALL bugs
-
